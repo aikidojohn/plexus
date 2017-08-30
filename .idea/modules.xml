@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/plexus.iml" filepath="$PROJECT_DIR$/plexus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plexus-agent/plexus-agent.iml" filepath="$PROJECT_DIR$/plexus-agent/plexus-agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plexus-core/plexus-core.iml" filepath="$PROJECT_DIR$/plexus-core/plexus-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plexus-discovery/plexus-discovery.iml" filepath="$PROJECT_DIR$/plexus-discovery/plexus-discovery.iml" />
+    </modules>
+  </component>
+</project>
